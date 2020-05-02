@@ -1,2 +1,2 @@
-# tropic-of-capricorn
-My_Python_Blog
+#My_Python_Blog
+Create a place to log my Python learning experience :)
